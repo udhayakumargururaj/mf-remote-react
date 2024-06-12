@@ -1,4 +1,4 @@
-Here's a simple README template for a React based Remote application:
+A React based Remote application:
 ---
 # React MF Application
 
