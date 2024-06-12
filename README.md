@@ -2,7 +2,7 @@ Here's a simple README template for a Lit-based host application:
 
 ---
 
-# Lit Host Application
+# React MF Application
 
 This is a Lit-based host application that consumes a remote component.
 
