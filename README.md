@@ -1,5 +1,3 @@
-A React based Remote application:
----
 # React MF Application
 
 This is a React-based remote application that provides a basic Table component.
