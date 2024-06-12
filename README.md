@@ -1,10 +1,8 @@
 Here's a simple README template for a Lit-based host application:
-
 ---
-
 # React MF Application
 
-This is a Lit-based host application that consumes a remote component.
+This is a React-based remote application that provides a basic Table component.
 
 ## Getting Started
 
@@ -12,7 +10,7 @@ Follow these steps to get the host application up and running:
 
 ### Prerequisites
 
-- Node.js and npm installed on your machine.
+- Node.js and yarn or npm installed on your machine.
 
 ### Installation
 
@@ -31,7 +29,7 @@ Follow these steps to get the host application up and running:
 3. Install dependencies:
 
    ```bash
-   npm install
+   yarn install
    ```
 
 ### Usage
@@ -39,7 +37,7 @@ Follow these steps to get the host application up and running:
 1. Start the development server:
 
    ```bash
-   npm start
+   yarn start
    ```
 
 2. Open your web browser and navigate to [http://localhost:3001](http://localhost:3001) to view the application.
