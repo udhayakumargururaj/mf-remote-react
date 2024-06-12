@@ -18,7 +18,7 @@ module.exports = {
         test: /\.js$/,
         use: 'babel-loader',
         exclude: /node_modules/,
-      },
+      }
     ],
   },
   plugins: [
@@ -27,6 +27,7 @@ module.exports = {
       filename: 'remoteEntry.js',
       exposes: {
         './Button': './src/Button',
+        './Table': './src/Table'
       },
       shared: {
         react: {
