@@ -1,4 +1,4 @@
-Here's a simple README template for a Lit-based host application:
+Here's a simple README template for a React based Remote application:
 ---
 # React MF Application
 
